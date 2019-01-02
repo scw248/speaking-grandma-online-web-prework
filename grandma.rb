@@ -15,7 +15,7 @@
 
 def speak_to_grandma(val)
   if val != val.upcase
-    'HUH?! SPEAK UP, SONNY!'
+    "HUH?! SPEAK UP, SONNY!"
   elseif val == "I LOVE YOU GRANDMA!"
     'I LOVE YOU TOO PUMPKIN!'
   else 
