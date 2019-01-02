@@ -13,12 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma(intro)
-  if val != val.upcase
-    "HUH?! SPEAK UP, SONNY!"
-  elseif intro == "I LOVE YOU GRANDMA!"
-    "I LOVE YOU TOO PUMPKIN!"
-  else 
-    "NO, NOT SINCE 1938!"
-end
-end
+def 
