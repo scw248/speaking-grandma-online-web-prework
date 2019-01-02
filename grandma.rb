@@ -15,7 +15,7 @@
 
 def speak_to_grandma(intro)
   if intro == "I LOVE YOU GRANDMA!"
-    'I LOVE YOU TOO PUMPKIN!'
+    puts 'I LOVE YOU TOO PUMPKIN!'
   elseif
   else 
     "NO, NOT SINCE 1938!"
